@@ -1,3 +1,5 @@
+# Currently the project is not finished because the shoham website removed the room from the course info
+
 # AvailableClassesFinder
 A Python script that checks all of the courses that takes place at a certain time and returns a list of available classes where you can study quietly!
 
